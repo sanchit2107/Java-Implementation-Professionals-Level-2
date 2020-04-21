@@ -1,0 +1,10 @@
+package com.capgemini.sam;
+import java.util.Scanner;
+
+public class IntegerToString {
+	public static void main(String args[]) {
+	Scanner sc = new Scanner(System.in);
+	int n = sc.nextInt();
+	System.out.println(String.valueOf(n));
+	}
+}
