@@ -23,7 +23,7 @@ Java-based programs -- part of Java Full-Stack Program. A complete series to lea
 - Variable Declarations
 - Declaring Enums
 
-<img src="https://www.lincesoft.com/wp-content/uploads/2020/06/java-development.png" align="right" width="50%" />
+<img src="https://www.lincesoft.com/wp-content/uploads/2020/06/java-development.png" align="right" width="60%" />
 
 > Operators
 - Java Operators
