@@ -23,8 +23,6 @@ Java-based programs -- part of Java Full-Stack Program. A complete series to lea
 - Variable Declarations
 - Declaring Enums
 
-<img src="https://www.lincesoft.com/wp-content/uploads/2020/06/java-development.png" align="right" width="60%" />
-
 > Operators
 - Java Operators
 - Assignment Operators
@@ -44,6 +42,8 @@ Java-based programs -- part of Java Full-Stack Program. A complete series to lea
 - The Compiler Plugin
 - Source Plugin
 - Jar Plugin
+
+<img src="https://www.lincesoft.com/wp-content/uploads/2020/06/java-development.png" align="right" width="60%" />
 
 > JUnit Testing
 - Types of Tests
